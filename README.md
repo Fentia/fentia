@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center" > Hi, I'm Frayting👋</h1> 
+<p align="center" >Please always believe that good things are about to happen ! 🥰</p> 
 
-<!--
-**Frayting/Frayting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hello world](https://raw.githubusercontent.com/Frayting/Frayting/refs/heads/main/hello-world.png)
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+</div>
+
+
+
